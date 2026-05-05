@@ -14,7 +14,7 @@ Os notebooks usam apenas caminhos relativos e procuram automaticamente a raiz do
 ├── breast_cancer_wisconsin.csv
 ├── cnn_data/
 │   ├── csv/
-│   └── jpeg/      # dados externos, não versionados
+│   └── jpeg/      
 ├── notebooks/
 │   ├── tabular/
 │   │   ├── 01_ml_breast_cancer.ipynb
