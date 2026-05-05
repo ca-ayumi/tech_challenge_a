@@ -1,0 +1,20 @@
+# Ambientes virtuais locais
+.venv/
+.venv-cnn/
+.venv-tabular/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# IDE / SO
+.idea/
+.vscode/
+.DS_Store
+
+# Mamografias e CSVs derivados (baixar/obter localmente — ver README)
+cnn_data/
